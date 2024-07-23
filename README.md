@@ -20,28 +20,27 @@ THEN my employee data is displayed on the page sorted alphabetically by last nam
 
 When you open the application you will be presented with the option to add employees.
 <br>
-![HomePage](/curly-potato/assets/images/homepage.png)<br>
+![HomePage](/assets/images/homepage.png)<br>
 
 You then enter employees first name hit enter.
 <br>
-![EnterFirstName](/curly-potato/assets/images/firstname.png)<br>
+![EnterFirstName](/assets/images/firstname.png)<br>
 
 You then enter the employees last name hit enter.
 <br>
-![EnterLastName](/curly-potato/assets/images/lastname.png)<br>
+![EnterLastName](/assets/images/lastname.png)<br>
 
-
-You enter employees salary 
+You enter employees salary
 
 <br>
-![EnterEmployeeSalary](/curly-potato/assets/images/salary.png)<br>
+![EnterEmployeeSalary](/assets/images/salary.png)<br>
 
 You can repeat the process untill you have the list you desire by clicking ok.
 
 <br>
-![OptionstoAdd](/curly-potato/assets/images/optiontoadd.png)<br>
+![OptionstoAdd](/assets/images/optiontoadd.png)<br>
 
 Once you are done adding all the employees you click cancle and you will be presented with the list of employee salaries in alphabetical order.
 
 <br>
-![ListofEmplyeeSalaries](/curly-potato/assets/images/list.png)<br>
+![ListofEmplyeeSalaries](/assets/images/list.png)<br>
