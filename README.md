@@ -31,16 +31,13 @@ You then enter the employees last name hit enter.
 ![EnterLastName](/assets/images/lastname.png)<br>
 
 You enter employees salary
-
 <br>
 ![EnterEmployeeSalary](/assets/images/salary.png)<br>
 
 You can repeat the process untill you have the list you desire by clicking ok.
-
 <br>
 ![OptionstoAdd](/assets/images/optiontoadd.png)<br>
 
 Once you are done adding all the employees you click cancle and you will be presented with the list of employee salaries in alphabetical order.
-
 <br>
 ![ListofEmplyeeSalaries](/assets/images/list.png)<br>
