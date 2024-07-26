@@ -41,3 +41,12 @@ You can repeat the process untill you have the list you desire by clicking ok.
 Once you are done adding all the employees you click cancle and you will be presented with the list of employee salaries in alphabetical order.
 <br>
 ![ListofEmplyeeSalaries](/assets/images/list.png)<br>
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+## Link
+
